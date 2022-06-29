@@ -1,0 +1,34 @@
+.footer {
+    text-align: center;
+    color: white;
+
+    a {
+        text-decoration: none;
+        color: white;
+    }
+}
+
+//hago un ejemplo para la entrega pero va a quedar color white
+#index {
+    .footer {
+        color: darkgrey;
+    }
+}
+
+#contacto {
+    .footer {
+        color: blue;
+    }
+}
+
+#servicios {
+    .footer {
+        color: red;
+    }
+}
+
+#nosotros {
+    .footer {
+        color: burlywood;
+    }
+}
