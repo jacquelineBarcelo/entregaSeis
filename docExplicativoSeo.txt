@@ -1,0 +1,4 @@
+ En el archivo index.html, nosotros, contacto, proyectos y servicios sumé el SEO con las siguientes características:
+Descripción: mediante la etiqueta meta name description, agregué el siguiente párrafo que explica en pocas palabras el contenido de mi sitio: "En este sitio web encontraras la informacion necesaria para ver imagenes, servicios que ofrece y comunicarte con Barcelo Consutrcciones, empresa dedicada a las obras de todo tipo."
+Palabras clave: mediante la etiqueta meta name keywords, agregué las palabras clave que acompañarán a todas las páginas de mi sitio: "CONSTRUCCION, CONSTRUCCIONES, OBRAS, PROYECTOS, EDIFICACION, CASAS, FABRICA, EDIFICIOS"
+Encabezado: para el encabezado del h1 utilicé el texto “BARCELO CONSTRUCCIONES”
